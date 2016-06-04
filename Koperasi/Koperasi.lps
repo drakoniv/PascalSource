@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Koperasi.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="79"/>
+        <CursorPos X="32" Y="92"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="Koperasi.pas"/>
+        <Caret Line="70" Column="148" TopLine="58"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Koperasi.pas"/>
+        <Caret Line="6" Column="7"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Koperasi.pas"/>
+        <Caret Line="3" Column="20"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Koperasi.pas"/>
+        <Caret Line="6" Column="14"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Koperasi.pas"/>
+        <Caret Line="70" Column="43" TopLine="59"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
